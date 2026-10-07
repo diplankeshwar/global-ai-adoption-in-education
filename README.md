@@ -55,3 +55,4 @@ Run it with:
 ## Live Demo
 Tableau Public: https://public.tableau.com/app/profile/dip.lankeshwar/viz/GlobalAIAdoptioninEducation_17912879117140/GlobalAIAdoptioninEducation
 
+**Hosted Web App (Render):** https://global-ai-adoption-in-education-1.onrender.com

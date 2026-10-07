@@ -64,3 +64,6 @@ Run it with: pip install flask, then python app.py, then open http://127.0.0.1:5
 - Tableau Public workbook: https://public.tableau.com/app/profile/dip.lankeshwar/viz/GlobalAIAdoptioninEducation_17912879117140/GlobalAIAdoptioninEducation
 - GitHub repository: https://github.com/diplankeshwar/global-ai-adoption-in-education
 - Project demonstration video (Google Drive): TO BE ADDED AFTER RECORDING
+
+
+**Hosted Web App (Render):** https://global-ai-adoption-in-education-1.onrender.com

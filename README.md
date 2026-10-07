@@ -29,7 +29,7 @@ Despite rapid growth in AI use by students, teachers and institutions, there is 
 9. Categorical Bar Chart — AI Adoption Level Breakdown (Low / Moderate / High)
 
 ## Dashboard and Story
-All key charts are combined into one interactive dashboard with KPI cards and filters (Country, Region, Year). A 5-point Tableau Story presents the findings step by step.
+All key charts are combined into one interactive dashboard with KPI cards and filters (Country, Region, Year). An 8-point Tableau Story presents the introduction, geographic adoption, 2015–2026 trend, AI-tool usage, urban–rural equity, student–teacher engagement, an additional education-index insight, and the conclusions/recommendations.
 
 ## Key Insights
 - School AI adoption rose from about 3% in 2015 to about 59% in 2026 in every region
@@ -53,4 +53,5 @@ Run it with:
 3. Open http://127.0.0.1:5000 in a browser
 
 ## Live Demo
-Tableau Public: https://public.tableau.com/app/profile/dip.lankeshwar/viz/GlobalAIAdoptioninEducation_1791287917140/GlobalAIAdoptioninEducation
+Tableau Public: https://public.tableau.com/app/profile/dip.lankeshwar/viz/GlobalAIAdoptioninEducation_17912879117140/GlobalAIAdoptioninEducation
+
